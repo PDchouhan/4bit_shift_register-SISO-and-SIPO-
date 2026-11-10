@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time=0 | rst=1 | serial_in=0 | Q=0000 | serial_out=0
+Time=12000 | rst=0 | serial_in=0 | Q=0000 | serial_out=0
+Time=15000 | rst=0 | serial_in=1 | Q=0001 | serial_out=0
+Time=25000 | rst=0 | serial_in=0 | Q=0010 | serial_out=0
+Time=35000 | rst=0 | serial_in=1 | Q=0101 | serial_out=0
+Time=45000 | rst=0 | serial_in=1 | Q=1011 | serial_out=1
+Time=55000 | rst=0 | serial_in=1 | Q=0111 | serial_out=0
+Time=65000 | rst=0 | serial_in=1 | Q=1111 | serial_out=1
+$finish called at time : 95 ns : File "C:/Users/prash/Downloads/shift_register_pd/shift_register_pd.srcs/sim_1/new/SISO_pd_tb.v" Line 53
